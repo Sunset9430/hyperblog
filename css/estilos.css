@@ -49,8 +49,8 @@ body
 }
 
 #footer{
-    background-color: gray;
+    background-color: cadetblue;
     text-align: center;
-    border: solid 2px gray;
+    border: solid 2px cadetblue;
     border-radius: 5px;
 }
