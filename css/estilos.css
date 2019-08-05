@@ -47,3 +47,10 @@ body
     padding: 1em;
     background: white;
 }
+
+#footer{
+    background-color: gray;
+    text-align: center;
+    border: solid 2px gray;
+    border-radius: 5px;
+}
