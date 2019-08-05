@@ -43,8 +43,8 @@ body
 }
 
 #footer{
-    background-color: cadetblue;
+    background-color: gray;
     text-align: center;
-    border: solid 2px cadetblue;
+    border: solid 2px gray;
     border-radius: 5px;
 }
