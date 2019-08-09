@@ -10,10 +10,10 @@ body
 }
 #cabecera
 {
-    background: #374886;
+    background:blueviolet;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     margin: 0;
     padding: 0.5em 0 0.5em 2em;
 }
